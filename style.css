@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgb(226, 214, 236);
+    margin: 40px;
+    box-shadow: rgba(107, 206, 219, 0.25) 0px 30px 60px -12px inset,
+     rgba(120, 225, 233, 0.3) 0px 18px 36px -18px inset;
+     border-radius: 60px;
+}
+.contianer{
+  text-align: center;
+}
+.time{
+  font-size: 90px;
+   padding: 40px;
+   
+}
+.contianer button{
+    padding: 5px;
+}
+.btn button{
+    padding: 5px;
+}
